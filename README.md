@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there :rainbow::octocat: 
 
-<!--
-**thayannevls/thayannevls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thayannevls/)
+[![dev.to](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=flat-square&logo=dev-dot-to&logoColor=white)](https://dev.to/thayannevls)
+[![email](https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white)](mailto:thayannevls@gmail.com)
 
-Here are some ideas to get you started:
+<samp>
+Hi :wave: I'm Thayanne (she/her), a software engineer and computer science student. I'm passionate about open source, web development and building dev communities! 
+</samp>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=thayannevls&count_private=true&show_icons=true&theme=graywhite"/>
+</div>
